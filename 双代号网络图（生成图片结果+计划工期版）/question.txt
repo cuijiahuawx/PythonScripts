@@ -1,0 +1,8 @@
+empty-a-4-ef
+empty-b-2-cd
+b-c-3-ef
+b-d-3-gh
+ac-e-5-g
+ac-f-6-hg
+fed-g-3-empty
+df-h-5-empty
